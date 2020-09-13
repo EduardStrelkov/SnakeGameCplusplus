@@ -1,0 +1,3 @@
+Snake:direction:2:length:4:initialized:1:points:2:prevTailPosition:40,7:parts:pos:36,7&:pos:37,7&:pos:38,7&:pos:39,7&|:pos:35,7
+Food:pointsCounter:2:pos:16,4
+TemporaryFood:appearanceCounter:11:lifetimeCounter:1:visible:0:pos:22,5
